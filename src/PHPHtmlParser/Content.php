@@ -10,7 +10,7 @@ use PHPHtmlParser\Exceptions\LogicalException;
 
 /**
  * Class Content.
- */
+ */ 
 class Content
 {
     /**
